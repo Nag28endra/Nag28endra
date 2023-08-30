@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nagendra Marisetti</h1>
-<h3 align="center">I'm a UI/UX and Web Developer with lots of passion towards them. Also a Machine Learning enthusiast</h3>
+<h3 align="center">I'm a Python Developer with lots of work and interest towards backend developement. Also a Machine Learning enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nag28endra&label=Profile%20views&color=0e75b6&style=flat" alt="nag28endra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nag28endra" alt="nag28endra" /></a> </p>
 
-- 🌱 I’m currently learning **Figma, JavaScript, React and React Native**
+- 🌱 I’m currently learning and revising myself on topics ** python, python advance, backend-django, ORM, API, RestAPI, git**
 
 - 👨‍💻 All of my projects are available at my github page [https://github.com/Nag28endra?tab=repositories](https://github.com/Nag28endra?tab=repositories)
 
