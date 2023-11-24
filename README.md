@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagendra Marisetti</h1>
-<h3 align="center">I'm a Python Developer with lots of work and interest towards backend developement. Also a Machine Learning enthusiast</h3>
+<h3 align="center">I'm a Python Developer with lots of work and interest towards Machine learning and deep learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nag28endra&label=Profile%20views&color=0e75b6&style=flat" alt="nag28endra" /> </p>
 
