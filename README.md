@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nag28endra" alt="nag28endra" /></a> </p>
 
-- 🌱 I’m currently learning and revising myself on topics **python, python advance, backend-django, ORM, API, RestAPI, git**
+- 🌱 I’m currently learning and revising myself on topics **python, python advance, machine learning especially, backend-django, ORM, API, RestAPI, git**
 
 - 👨‍💻 All of my projects are available at my github page [https://github.com/Nag28endra?tab=repositories](https://github.com/Nag28endra?tab=repositories)
 
