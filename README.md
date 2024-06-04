@@ -7,6 +7,10 @@
 
 - 🔭 I’m currently focusing on **problem solving ability**
 
+- Leetcode Problem Solutions for DSA link [https://github.com/Nag28endra/LeetCodeSolutions](https://github.com/Nag28endra/LeetCodeSolutions)
+
+- 🤝 Competitive Programming (brute<better<optimal) solutions link [https://github.com/Nag28endra/Competitive-Programming-using-C--](https://github.com/Nag28endra/Competitive-Programming-using-C--)
+
 - 👨‍💻 All of my projects are available at [https://nag28endra.github.io/Myportfolio/](https://nag28endra.github.io/Myportfolio/)
 
 - 💬 Ask me about **DSA, Python and Competitive Programming**
