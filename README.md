@@ -11,7 +11,7 @@
 
 - 🤝 Competitive Programming (brute<better<optimal) solutions link [https://github.com/Nag28endra/Competitive-Programming-using-C--](https://github.com/Nag28endra/Competitive-Programming-using-C--)
 
-- 👨‍💻 All of my projects are available at [https://nag28endra.github.io/Myportfolio/](https://nag28endra.github.io/Myportfolio/)
+- 👨‍💻 All of my projects are available at [https://nag28endra.github.io/Myportfolio/](https://nag28endra.github.io/MyPortfolio/)
 
 - 💬 Ask me about **DSA, Python and Competitive Programming**
 
