@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nagendra Marisetti</h1>
-<h3 align="center">Software Developer in Automation || C++, Python, Java Programmer and machine learning enthusiast</h3>
+<h3 align="center">Software Developer in Automation || C++, Python, and machine learning enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nag28endra&label=Profile%20views&color=0e75b6&style=flat" alt="nag28endra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nag28endra" alt="nag28endra" /></a> </p>
 
 - 🔭 I’m currently working as **Software Developer in Automation** where I build conversational chatbots and automate the processes, scrap data from web.
-
+- 📖 Exploring the rapidly evolving field of Generative AI, with a focus on Retrieval-Augmented Generation (RAG) and Agentic AI, to deepen my understanding of advanced AI applications..
 - Leetcode Problem Solutions for DSA link [https://github.com/Nag28endra/LeetCodeSolutions](https://github.com/Nag28endra/LeetCodeSolutions)
 
 - 🤝 Competitive Programming (brute<better<optimal) solutions link [https://github.com/Nag28endra/Competitive-Programming-using-C--](https://github.com/Nag28endra/Competitive-Programming-using-C--)
