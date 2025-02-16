@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nag28endra.github.io/Myportfolio/](https://nag28endra.github.io/MyPortfolio/)
 
-- 💬 Ask me about **DSA, Python and Competitive Programming**
+- 💬 Ask me about **DSA, Python, C++, AI/ML and Competitive Programming**
 
 - 📫 How to reach me **nagendramvb@gmail.com**
 
